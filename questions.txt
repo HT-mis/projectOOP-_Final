@@ -1,0 +1,21 @@
+45
+1|C++ là ngôn ngữ lập trình gì?|Ngôn ngữ thông dịch|Ngôn ngữ biên dịch|Ngôn ngữ kịch bản|Ngôn ngữ đánh dấu|1
+2|Từ khóa nào dùng để khai báo lớp trong C++?|struct|class|object|define|1
+3|Toán tử nào dùng để truy cập thành viên của đối tượng?|->|.|::|*|1
+4|Con trỏ this trong C++ trỏ đến đâu?|Đối tượng cha|Đối tượng hiện tại|Đối tượng con|Đối tượng tĩnh|1
+5|Hàm tạo (constructor) có kiểu trả về không?|Có, là void|Có, là int|Không có kiểu trả về|Có, là bool|2
+6|Từ khóa nào dùng để kế thừa trong C++?|extends|implements|inherits|public|3
+7|Phương thức ảo (virtual) dùng để làm gì?|Tạo đối tượng ảo|Đa hình thời gian chạy|Khai báo biến ảo|Không có tác dụng|1
+8|Toán tử new trong C++ dùng để làm gì?|Xóa bộ nhớ|Cấp phát bộ nhớ động|Khai báo biến|In ra màn hình|1
+9|Từ khóa const đặt sau hàm có ý nghĩa gì?|Hàm không thể gọi|Hàm không thay đổi thuộc tính|Hàm tĩnh|Hàm ảo|1
+10|Destructor trong C++ có ký hiệu gì?|@|#|~|&|2
+11|Vector trong C++ thuộc thư viện nào?|iostream|string|vector|algorithm|2
+12|Từ khóa namespace dùng để làm gì?|Tạo không gian tên|Tạo lớp|Tạo hàm|Tạo biến|0
+13|Toán tử :: trong C++ là gì?|Toán tử gán|Toán tử so sánh|Toán tử phạm vi|Toán tử logic|2
+14|Private trong C++ nghĩa là gì?|Truy cập công khai|Truy cập riêng tư|Truy cập bảo vệ|Truy cập toàn cục|1
+15|Hàm main() trong C++ trả về kiểu gì?|void|double|int|char|2
+16|STL là viết tắt của gì?|Standard Template Library|Simple Type Library|System Tool Library|Static Template List|0
+17|Từ khóa static trong lớp có nghĩa gì?|Thuộc về lớp, không thuộc đối tượng|Không thể thay đổi|Là hàm ảo|Là hàm riêng|0
+18|Override dùng để làm gì?|Ghi đè phương thức lớp cha|Tạo phương thức mới|Xóa phương thức|Ẩn phương thức|0
+19|Template trong C++ dùng để làm gì?|Lập trình tổng quát|Tạo giao diện|Quản lý bộ nhớ|Xử lý ngoại lệ|0
+20|Exception trong C++ là gì?|Lỗi biên dịch|Ngoại lệ thời gian chạy|Cảnh báo|Lỗi cú pháp|1

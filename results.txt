@@ -1,0 +1,30 @@
+Kết quả thi
+Họ tênTrần Tiến Đạt
+Mã sinh viên293
+Tổng điểm1
+=====
+
+Kết quả thi
+Họ tênđạt
+Mã sinh viên230
+Tổng điểm1.5
+=====
+
+Kết quả thi
+Họ tênịda
+Mã sinh viênóak
+Tổng điểm0
+=====
+
+Kết quả thi: 
+Họ tên: tien dat
+Mã sinh viên: 112
+Tổng điểm: 2
+=====
+
+Kết quả thi: 
+Họ tên: tien dat
+Mã sinh viên: 293
+Tổng điểm: 0
+=====
+
